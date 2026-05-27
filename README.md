@@ -163,6 +163,16 @@ cv2.destroyAllWindows()
 <img width="807" height="599" alt="Screenshot 2026-05-26 161909" src="https://github.com/user-attachments/assets/6a99b790-a9f3-4b23-b182-cc4bb01f57ad" />
 
 
+<img width="794" height="655" alt="image" src="https://github.com/user-attachments/assets/c566e3c9-b2c3-4bcd-ac76-332e50c02532" />
+
+
+
+<img width="812" height="598" alt="image" src="https://github.com/user-attachments/assets/48042c03-6ab6-411c-8b92-ae722afdfd9b" />
+
+
+
+<img width="696" height="596" alt="image" src="https://github.com/user-attachments/assets/726a2dde-2f6d-4889-9140-3ce5e9ef54e2" />
+
 ---
 
 # Result
